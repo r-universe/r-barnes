@@ -1,5 +1,9 @@
 [
   {
+    "package": "dggridR",
+    "oncran": true
+  },
+  {
     "package": "webglobe",
     "oncran": true
   }
